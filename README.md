@@ -27,3 +27,6 @@ Para isso, utilizando o ponto para informar o printf() para fazer um corte na St
 ## Paragrafo.java
 Nesta classe tentei trabalhar com a quantidade mínima de caracteres para construir uma "tabulação" dentro do método.
 [ O texto é meramente aleatório, é sobre batatas :) ]
+
+# Tutorial/Referências
+* https://youtu.be/xk4_1vDrzzo?t=9484 (ponto exato desse vídeo do Youtube em que é explicado o funcionamento do printf().
